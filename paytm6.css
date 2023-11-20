@@ -1,0 +1,112 @@
+.section6{
+    height: 900px;
+    width: 100%;
+    /* border: 2px soli black; */
+    display: flex;
+    flex-direction: column;
+
+    background-color: white;
+    /* justify-content: center;
+    justify-items: center; */
+    justify-content: space-between;
+    
+    /* background-image: url(https://pwebassets.paytm.com/commonwebassets/commonweb/images/home/gray-spike.png); */
+    
+    background-position: 50%;
+    
+    position: relative;
+    top: -248px;
+}
+
+.parabox{
+    height: 100px;
+    width: 90%;
+    /* border: 2px soli black;
+    background-color: rgb(231, 211, 211); */
+    position: relative;
+    top: 20px;
+    left: 52px;
+}
+.contentbox{
+    height: 600px;
+    width: 90%;
+    /* border: 2px soli black;
+    background-color: rgb(170, 153, 153); */
+
+    position: relative;
+    top: -140px;
+    left: 52px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.containorbox{
+    height: 90%;
+    width: 22%;
+
+    /* border: 3px solid black; */
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.contaninorpart1{
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    /* border: 3px solid black; */
+    
+
+}
+.contaninorpart2{
+    height: 20%;
+    width: 100%;
+    text-align: center;
+    /* border: 3px solid black; */
+
+}
+.contaninorpart3{
+    height: 30%;
+    width: 100%;
+    text-align: center;
+    /* border: 3px solid black; */
+
+}
+#containorimage1{
+    height: 117%;
+    width: 106%;
+    position: relative;
+    top: -28px;
+    left: 5px;
+}
+#containorimage2{
+    height: 107%;
+    width: 129%;
+    position: relative;
+    top: -28px;
+    left: 18px;
+}
+#containorimage3{
+    height: 104%;
+    width: 125%;
+    position: relative;
+    top: -25px;
+    left: 2px;
+}
+
+#containorimage4{
+    height: 107%;
+    width: 125%;
+    position: relative;
+    top: -28px;
+    left: 23px;
+}
+
+#contpara{
+    color: black;
+    line-height: 30px;
+    font-size: large;
+}

@@ -1,0 +1,119 @@
+.section3{
+    height: 850px;
+    width: 100%;
+    border: 2px soli black;
+    display: flex;
+    background-color: #f5f7fa;
+    position: relative;
+    top: -22px;
+}
+
+.innerbox{
+    height: 600px;
+    width: 80%;
+    background-color: white;
+    /* border: 3px solid black; */
+    display: flex;
+    position: relative;
+    top: 177px;
+    left: 125px;
+}
+
+.head4{
+    height: 83px;
+    width: 80%;
+    /* border: 3px solid black; */
+    display: flex;
+    position: absolute;
+    top: 42px;
+    left: 122px;
+    line-height: 30px;
+    font-weight: bolder;
+
+}
+#head4{
+
+    line-height: 30px;
+    font-weight: bolder;
+
+
+}
+
+.leftinnerbox{
+    height: 100%;
+    width: 50%;
+    /* border: 3px solid black; */
+    display: flex;
+}
+.leftpara{
+
+    height: 70%;
+    width: 90%;
+    /* border: 3px solid black; */
+    display: flex;
+
+    position: relative;
+    top: 96px;
+    left:44px;
+
+}
+
+.rightinnerbox{
+    height: 100%;
+    width: 50%;
+    /* border: 3px solid black; */
+    display: flex;
+
+}
+
+.imgconotanor1{
+    height: 30px;
+    width: 73px;
+    position: relative;
+    top: 6px;
+    left: 5px;
+}
+
+.head3{
+    height: 20px;
+    width: 100%;
+    position: absolute;
+    top:86px;
+    left: 4px;
+}
+
+.para3{
+    height: 20px;
+    width: 100%;
+    position: absolute;
+    top:195px;
+    left: 4px;
+    color: black;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+#button2{
+    position: relative;
+    top: 332px;
+    left: -70px;
+}
+#paytmlogo2{
+    position: relative;
+    top: -59px;
+    left: 81px;
+    font-weight: bold;
+}
+.imagecontanor3{
+    position: relative;
+    top: 2px;
+    left: 3px;
+
+}
+#imagecontanor4{
+    position: relative;
+    left: 2px;
+    top: 102px;
+    width: 100%;
+    /* h100% */
+}

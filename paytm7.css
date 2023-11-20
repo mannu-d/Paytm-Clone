@@ -1,0 +1,22 @@
+.section7{
+    height: 80px;
+    width: 100%;
+    border: 1px solid rgb(198, 175, 175);
+    position: relative;
+    top: -364px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+   
+    background-image: url(https://pwebassets.paytm.com/commonwebassets/commonweb/images/home/gray-spike.png);
+    background-position: 50%;
+
+
+}
+.head8{
+    font-family: cursive;
+    font-weight: lighter;
+
+}

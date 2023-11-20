@@ -1,0 +1,75 @@
+.section5{
+    height: 850px;
+    width: 100%;
+    /* border: 2px soli black; */
+    display: flex;
+    
+    
+    background-image: url(https://pwebassets.paytm.com/commonwebassets/commonweb/images/home/gray-spike.png);
+    
+    background-position: 50%;
+    
+    position: relative;
+    top: -248px;
+}
+.innerbox3{
+    height: 600px;
+    width: 90%;
+    
+    /* border: 3px solid black; */
+    display: flex;
+    position: relative;
+    top: 228px;
+    left: 62px;
+
+    flex-direction: row;
+}
+
+.leftinnerbox3{
+    height: 100%;
+    width: 50%;
+    /* border: 3px solid black; */
+    display: flex;
+}
+
+
+.rightinnerbox3{
+    height: 100%;
+    width: 50%;
+    /* border: 3px solid black; */
+    display: flex;
+
+}
+
+.imagecontanor5{
+   
+    position: relative;
+    top: 50px;
+    left: 5px;
+} 
+.imgconotanor2{
+    height: 30px;
+    width: 145px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+
+.rightpara2{
+
+    height: 70%;
+    width: 90%;
+    /* border: 3px solid black; */
+    display: flex;
+
+    position: relative;
+    top: 96px;
+    left:44px;
+
+}
+
+#button4{
+    position: relative;
+    top: 382px;
+    left: -145px;
+}
